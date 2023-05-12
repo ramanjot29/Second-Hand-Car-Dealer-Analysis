@@ -1,0 +1,2 @@
+# Second Hand Car Dealer Analysis
+ This repository contains an analysis of a second hand car dealer database using MySQL. The database includes information such as year of manufacture, selling price, mileage, fuel type, transmission type, and more. The analysis includes a variety of queries to extract insights from the data, such as the top cars with the highest mileage and their corresponding fuel types, the average selling price of cars by transmission type, and the number of cars for each year of manufacture.
